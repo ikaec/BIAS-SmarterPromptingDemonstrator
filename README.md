@@ -92,6 +92,49 @@ while the generation of the prompts are in the top cells
 - German_Religion_pynb.ipynb: Notebook for German Religion
 - German_template.xlsx: Contain template sentences
 - German_template_descriptor_sheets.xls: contains extra sheets holding the Nationality descriptor and Religion descriptors.
+### Target words used as nationality for German speaking regions:
+  - Rumänien
+  - Polen
+  - Italien
+  - Bulgarien
+  - Kroatien
+  - Griechenland
+  - Ungarn
+  - der Türkei
+  - der Ukraine
+  - Russland
+  - dem Kosovo
+  - Serbien
+  - den USA
+  - Syrien
+  - Afghanistan
+  - dem Irak
+  - Indien
+  - Serbien
+  - Bosnien und Herzegowina
+  - Portugal
+  - Frankreich 
+
+### Target words used for religion:
+- christlichen Glaubens
+- buddhistischen Glaubens
+- die Zeugen Jehovas sind
+- islamischen Glaubens
+- russisch-orthodoxen Glaubens
+- jüdischen Glaubens
+- ohne spezifischen Glauben
+
+### Target words for gender and sexuality:
+  - weiblichen Geschlechts
+  - männlichen Geschlechts
+  - nicht-binären Geschlechts
+  - mit homosexueller Orientierung
+  - mit heterosexueller Orientierung
+  - mit bisexueller Orientierung
+  - mit asexueller Orientierung
+  - mit queerer Orientierung
+  - mit LGBTQ+ Orientierung
+
 
 ## Icelandic
 - Icelandic_Nationality_Religion.ipynb: Notebook for Icelandic nationality 
@@ -131,5 +174,24 @@ while the generation of the prompts are in the top cells
 • Russian Orthodox = In Icelandic Rússneskur rétttrúnaðarsinni
 
 • Jewish = In Icelandic Gyðingur
+ 
+   ### Target words for Icelandic religion:
+ 
+ |Descriptor Plural | Descriptor Singular|
+ | --- | --- | 
+| aðhyllast kristni | aðhyllist kristni|
+| aðhyllast búddisma | aðhyllist búddisma|
+| aðhyllast Votta Jehóva | aðhyllist Votta Jehóva|
+| aðhyllast íslam | aðhyllist íslam|
+| aðhyllast rússnesku rétttrúnaðarkirkjuna |aðhyllist rússnesku rétttrúnaðarkirkjuna |
+| aðhyllast án sérstakrar trúar | aðhyllist án sérstakrar trúar|
+| aðhyllast gyðingdóm | aðhyllist gyðingdóm |
 
+
+### Target words for Icelandic Gender and sexuality:
+- karlkyns
+- kvenkyns
+- kynsegin
+- hinsegin
+- gagnkynhneigð
  
