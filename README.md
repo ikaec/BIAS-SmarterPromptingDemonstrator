@@ -92,6 +92,20 @@ while the generation of the prompts are in the top cells
 - German_Religion_pynb.ipynb: Notebook for German Religion
 - German_template.xlsx: Contain template sentences
 - German_template_descriptor_sheets.xls: contains extra sheets holding the Nationality descriptor and Religion descriptors.
+- Foreign nationality distributions in the three German speaking countries are as shown below:
+  
+| Nationality   | % of foreign nationals in Switzerland  | % of foreign nationals in Austria  | % of foreign nationals in Austria  |  
+ | --- | --- | --- | --- | 
+|Romania |6.55% |1.45% |8.52% |
+|Poland |6.39% |1.93% |3.77% |
+|Italy |4.63% |13.98% |2.19% |
+|Bulgaria |3.14% |0.74% |2.21% |
+|Türkiye |11.14% |2.19% |6.89% |
+|Ukraine |8.92% |2.86% |4.48% |
+|Serbia |1.95% |2.46% |6.79% |
+|Portugal |1.01% |10.56% |NA |
+|France |1.01% |6.77% |NA |
+
 ### Target words used as nationality for German speaking regions:
   - Rumänien
   - Polen
